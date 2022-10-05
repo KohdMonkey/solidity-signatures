@@ -1,0 +1,10 @@
+ECDSA-SECP256r1 Solidity implementation and test code from https://github.com/tdrerup/elliptic-curve-solidity
+
+Testing:
+- with truffle: truffle test
+- without truffle: node TestSign.js
+
+Tested on:
+- Node v15.14.0
+- Truffle v5.6.0
+
